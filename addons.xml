@@ -68,7 +68,7 @@
     </extension>
 </addon>
 
-<addon id="script.keymapedit" name="Keymap Edit" provider-name="takoi, host505" version="0.1.6">
+<addon id="script.keymapedit" name="Keymap Edit" provider-name="takoi, host505" version="0.1.7">
     <requires>
         <import addon="xbmc.addon" version="17.0.0" />
     </requires>
